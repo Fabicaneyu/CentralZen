@@ -22,7 +22,7 @@ time, mark, audio, video {
 }
  /*page one*/
  body {
-        font-family: 'Red Hat Text', sans-serif;
+        font-family: 'Roboto';
 }
     /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
@@ -53,17 +53,31 @@ strong {
 
 #logo{
     height: 164px;
- }
+   }
+   h1 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 70px;
+    line-height: 82px;
+    color: #C59CD8;
+
+   }
 footer{
     background-color: #C59CD8;
-    padding: 60px 100px;
+    padding: 40px 70px;
 
 }
  footer ul {
     list-style: none;
     margin: 0;
     padding: 0;
-}
+    float: right;
+    }
+footer::after{
+        content: "";
+        display: block;
+        clear: both;
+    }
 
 footer ul > li {
     display: inline-block;
@@ -73,5 +87,5 @@ footer ul > li:first-child{
     border-right: 2px solid #ffffff;
     margin-left: 0;
     padding-right: 35px;
-
 }
+
