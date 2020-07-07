@@ -55,13 +55,35 @@ strong {
     height: 164px;
    }
    h1 {
+    width: 635px;
+    height: 186px;
     font-style: normal;
     font-weight: bold;
     font-size: 70px;
     line-height: 82px;
     color: #C59CD8;
 
-   }
+}
+.box-conteudo, .box-imagem {
+    width: 45%;
+    float: right;
+}
+.box-texto, .box-logo {
+    width: 100%;
+}
+.box-logo {
+    width: 219px;
+}
+
+.box-logo img {
+    width: 100%;
+}
+
+.box-conteudo {
+    padding-left: 3%;
+    float: left;
+    margin-bottom: 15px;
+}
 footer{
     background-color: #C59CD8;
     padding: 40px 70px;
@@ -88,4 +110,24 @@ footer ul > li:first-child{
     margin-left: 0;
     padding-right: 35px;
 }
-
+.clear {
+    clear: both;
+}
+.box-imagem img {
+    width: 100%;
+}
+p.data-evento {
+    color: #815e91;
+    margin-top: 40px;
+    margin-bottom: 15px;
+    font-size: x-large;
+}
+a.botao-acessar {
+    background-color: #1BA5B0;
+    display: block;
+    padding: 20px 25px;
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+    font-size: 29px;
+}
