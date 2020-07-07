@@ -1,9 +1,8 @@
-// let div = document.querySelector('.popup')
+let div = document.querySelector('.botao-acessar')
 
-
-// document.querySelector('html').addEventListener('mouseleave', function(){
-//     alert('Não se vá :) Vem com a gente aprender hacks para a sua saúde mental? Se inscreva no formulário da sympla, boraaa!')
-// })
+document.querySelector('html').addEventListener('mouseleave', function(){
+     alert('Não se vá :) Vem com a gente aprender hacks para a sua saúde mental? Se inscreva no formulário da sympla, boraaa!')
+})
 
 //Contador
 let target_date = new Date("Julho 09, 2020 19:00:00").getTime();
