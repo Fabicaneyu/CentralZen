@@ -131,3 +131,39 @@ a.botao-acessar {
     text-align: center;
     font-size: 29px;
 }
+
+/* Contador */
+
+
+.texto-contador {
+    font: 16px/1.4 ;  
+    max-width: 1200px;  
+    margin: 0 auto;
+    padding: 20px;
+  }
+  @media screen and (min-width: 500px) {
+    .texto-contador {
+      font-size: calc(16px + (8/1200) * 100 * 1vw);
+    }
+  }
+  
+
+.card{
+    border-radius: 15px;
+    border: none;
+}
+
+.numero
+{
+background-color: #efefef;
+color: #000000;
+font-size: 40px;
+margin: 5px;
+text-align: center;
+border-radius: 15px;
+}
+
+.card-text{
+    text-align: center;
+    margin-top: -15px;
+}
