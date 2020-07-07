@@ -61,8 +61,23 @@ strong {
     font-weight: bold;
     font-size: 70px;
     line-height: 82px;
-    color: #C59CD8;
+    color:#815e91;
 
+}
+
+h2 {
+    width: 635px;
+    height: 186px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 82px;
+    color: #C59CD8;
+}
+
+h2 span {
+    font-style: normal;
+    font-weight: normal;
 }
 .box-conteudo, .box-imagem {
     width: 45%;
