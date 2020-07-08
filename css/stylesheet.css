@@ -220,5 +220,12 @@ border-radius: 15px;
         padding: 15px;
         text-align: center;
     }
+    h2 {
+        width: 321px;
+        font-style: normal;
+        font-weight: bold;
+        line-height: 52px;
+        display: inline-block;
+    }
 }
   
