@@ -1,8 +1,14 @@
-let div = document.querySelector('.popup')
+//Popup
+let div = document.querySelector('.popup');
+let aceitou = 0;
 
 document.querySelector('html').addEventListener('mouseleave', function(){
-     alert('Não se vá :) Vem com a gente aprender hacks para a sua saúde mental! Se inscreva no formulário da sympla, boraaa!')
+    if(aceitou == 0){
+        alert('Não se vá :) \nVem com a gente aprender hacks para a sua saúde mental! \nSe inscreva no formulário da sympla, boraaa!');
+        aceitou++;
+    } 
 })
+
 
 //Contador
 let target_date = new Date("Julho 09, 2020 19:00:00").getTime();
