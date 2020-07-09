@@ -55,23 +55,18 @@ strong {
     height: 164px;
    }
    h1 {
-    width: 635px;
-    height: 186px;
     font-style: normal;
     font-weight: bold;
-    font-size: 70px;
-    line-height: 82px;
+    font-size: 40px;
     color:#815e91;
-
 }
 
 h2 {
-    width: 635px;
-    height: 186px;
+    margin-bottom: 26px;
     font-style: normal;
     font-weight: bold;
-    font-size: 45px;
-    line-height: 82px;
+    font-size: 42px;
+    line-height: 47px;
     color: #C59CD8;
 }
 
@@ -80,7 +75,7 @@ h2 span {
     font-weight: normal;
 }
 .box-conteudo, .box-imagem {
-    width: 45%;
+    width: 48%;
     float: right;
 }
 .box-texto, .box-logo {
@@ -183,7 +178,13 @@ border-radius: 15px;
     font-size: calc(16px + (8/1200) * 100 * 1vw);
     margin-top: 60px;
 }
-
+.box-texto {
+    margin-top: 82px;
+}
+small.text-muted {
+    display: inline-block;
+    margin-top: 15px;
+}
 @media screen and (max-width: 576px) {
     .box-conteudo {
         padding-left: 0;
@@ -194,10 +195,9 @@ border-radius: 15px;
         width: auto;
         font-size: 33px;
         line-height: 37px;
-        color: #C59CD8;
         height: auto;
         margin-bottom: 18px;
-        text-align: center;
+        text-align: left;
     }
     .box-imagem {
         display: none;
@@ -212,20 +212,31 @@ border-radius: 15px;
         background-image: url(../img/Vector.png);
         background-repeat: no-repeat;
         background-position: 0 0;
-            padding: 0 2%;
-            width: 96%;
-
+        padding: 33px 15px 0 15px;
+        width: 100%;
+        margin-top: 50px;
+        text-align: left;
     }
     p {
         padding: 15px;
-        text-align: center;
+        text-align: left;
     }
     h2 {
-        width: 321px;
         font-style: normal;
         font-weight: bold;
-        line-height: 52px;
         display: inline-block;
+        font-size: 28px;
+        line-height: 35px;
+        margin-bottom: 6px;
     }
+    h2 span{
+    	display:block;
+    }
+    p.data-evento {
+    margin-top: 0;
+    margin-bottom:0;
+    font-size: 21px;
+    padding-top: 0;
+}
 }
   
