@@ -1,7 +1,8 @@
 <h1 align="center"> centralZen </h1>
 
 <p align="center">
-    Somo a centralZen, uma empresa que entrega conteúdos e hacks práticos para entrar em flow e performar mais na vida! Já se perguntou qual a melhor forma de cuidar do seu corpo e da sua mente? Para te ajudar, promoveremos o webinar : [Saúde Mental]: Aprenda Hacks para aplicar hoje mesmo. Acontecerá No dia 09/07 (quinta-feira) às 19 horas e contaremos com a ilustre presença de convidados especiais para te ensinar hacks simples mas poderosos para cuidar da sua saúde mental. <a href>  
+    Somos a centralZen, uma empresa que entrega conteúdos e hacks práticos para entrar em flow e performar mais na vida! Já se perguntou qual a melhor forma de cuidar do seu corpo e da sua mente? <br>
+    Para te ajudar, promoveremos o webinar: [Saúde Mental] Aprenda Hacks para aplicar hoje mesmo. Acontecerá No dia 09/07 (quinta-feira) às 19 horas e contaremos com a ilustre presença de convidados especiais para te ensinar hacks simples mas poderosos para cuidar da sua saúde mental. Acesse nosso site e se inscreva.    
 </p>
 
 
