@@ -1,7 +1,11 @@
-let div = document.querySelector('.popup')
+let div = document.querySelector('.popup');
+let aceitou = 0;
 
 document.querySelector('html').addEventListener('mouseleave', function(){
-     alert('Não se vá :) Vem com a gente aprender hacks para a sua saúde mental! Se inscreva no formulário da sympla, boraaa!')
+    if(aceitou == 0){
+        alert('Não se vá :) Vem com a gente aprender hacks para a sua saúde mental! Se inscreva no formulário da sympla, boraaa!');
+        aceitou++;
+    } 
 })
 
 //Contador
