@@ -4,21 +4,14 @@ let aceitou = 0;
 
 document.querySelector('html').addEventListener('mouseleave', function(){
     if(aceitou == 0){
-        alert('Não se vá :) \nVem com a gente aprender hacks para a sua saúde mental! \nSe inscreva no formulário da sympla, boraaa!');
+        alert('Não se vá :) \nVem com a gente aprender hacks para a sua saúde mental! \nAssista a live, boraaa!');
         aceitou++;
     } 
 })
 
 
 //Contador
-let target_date = new Date("Julho 09, 2020 19:00:00").getTime(){
-    if (target_date == true){
-        target_date = false
-    }
-}
-
-
-
+//let target_date = new Date("Julho 09, 2020 19:00:00").getTime();
 let dias, horas, minutos, segundos;
 let regressiva = document.getElementById("regressiva");
 
