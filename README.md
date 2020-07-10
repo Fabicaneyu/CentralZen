@@ -21,6 +21,8 @@
 
 :eight_spoked_asterisk: [Deploy da Aplicação](#deploy-da-aplicação-dash)
 
+:eight_spoked_asterisk: [Live Canal Youtube Central Zen](#live-canal-youtube-central-zen-arrow_forward)
+
 :eight_spoked_asterisk: [Linguagens, dependencias e libs utilizadas ](#linguagens-dependencias-e-libs-utilizadas-books)
 
 ## Descrição do projeto :star:
@@ -38,10 +40,16 @@ trabalhar em cima das personas atendidas pela empresa Zenklub. Para tal, somos d
 ## Plataforma centralZen :checkered_flag:
 
 :trophy: Landing Page
+:trophy: Prospecção e realização de parcerias
+:trophy: Redes sociais: Instagram, Facebook, Linkedin e Youtube
 
 ## Deploy da Aplicação :dash:
 
 https://centralzen.info/
+
+## Live Canal Youtube Central Zen :arrow_forward:
+
+[[saúde mental] Aprenda hacks para aplicar hoje mesmo](https://youtu.be/SkvqYnr4JDs):
 
 ## Linguagens, dependencias e libs utilizadas :books:
 
