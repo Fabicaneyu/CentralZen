@@ -11,7 +11,14 @@ document.querySelector('html').addEventListener('mouseleave', function(){
 
 
 //Contador
-let target_date = new Date("Julho 09, 2020 19:00:00").getTime();
+let target_date = new Date("Julho 09, 2020 19:00:00").getTime(){
+    if (target_date == true){
+        target_date = false
+    }
+}
+
+
+
 let dias, horas, minutos, segundos;
 let regressiva = document.getElementById("regressiva");
 
